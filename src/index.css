@@ -1,0 +1,73 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Jost-Bold";
+  src: url("./assets/fonts/jost/Jost-Bold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Jost-ExtraBold";
+  src: url("./assets/fonts/jost/Jost-ExtraBold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Jost-Medium";
+  src: url("./assets/fonts/jost/Jost-Medium.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Jost-Regular";
+  src: url("./assets/fonts/jost/Jost-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Jost-SemiBold";
+  src: url("./assets/fonts/jost/Jost-SemiBold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Poppins-ExtraBold";
+  src: url("./assets/fonts/poppins/Poppins-ExtraBold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Poppins-Bold";
+  src: url("./assets/fonts/poppins/Poppins-Bold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Gilroy-Light";
+  src: url("./assets/fonts/gilroy/Gilroy-Light.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Gilroy-Bold";
+  src: url("./assets/fonts/gilroy/Gilroy-Bold.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Gilroy-XBold";
+  src: url("./assets/fonts/gilroy/Gilroy-ExtraBold.ttf") format("truetype");
+  font-weight: bolder;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "inter-Bold";
+  src: url("./assets/fonts/inter/Inter-Bold.ttf") format("truetype");
+  font-weight: 100;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "inter-Normal";
+  src: url("./assets/fonts/inter/Inter-Regular.ttf") format("truetype");
+  font-weight: 100;
+  font-style: normal;
+}
